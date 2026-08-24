@@ -12,6 +12,12 @@ Este repositório contém dados de municípios, cidades/localidades e endereços
 
 Todos os arquivos usam vírgula como separador e possuem uma linha de cabeçalho. Campos textuais podem estar entre aspas e podem conter vírgulas; por isso, devem ser lidos com um parser de CSV, e não com uma simples divisão da linha por vírgulas.
 
+## Origem dos Dados
+
+As informações deste repositório — CEPs, logradouros, bairros, cidades e municípios — foram obtidas de **fontes públicas**. Endereços postais e códigos de CEP são dados de uso comum; a legislação brasileira não reconhece direito autoral sobre os fatos em si (por exemplo, o CEP `01001-000` associado à Praça da Sé).
+
+Esta base é uma compilação independente, organizada para uso comunitário. Não se trata da redistribuição do Diretório Nacional de Endereços (DNE) dos Correios, produto comercial proprietário sujeito a contrato de licença.
+
 ## Relação entre os IDs
 
 ```mermaid
