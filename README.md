@@ -142,3 +142,7 @@ Na versão atual dos arquivos:
 - todos os 1.607.998 registros de CEP apontam para um `cidades.id` existente;
 - a UF de todos os registros coincide com o nome do arquivo e com a UF do município alcançado pelos relacionamentos;
 - 62 municípios possuem mais de uma cidade/localidade cadastrada e 5 municípios não possuem entrada em `cidades.csv`.
+
+___
+
+Se este repositório ajudou você, considere contribuir deixando uma estrela.
